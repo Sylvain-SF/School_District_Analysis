@@ -1,7 +1,7 @@
 
 ## Overview of Project:
  In this project, we analysed datas-set from a variety of sources and formats to informed a school board for their discussions and strategic decisions.<br>
- We aggregated datas to showcase trends and schools performance regarding schools budgets, reading and math score, sizes and priorities. We did this analysis first for all the schools datas and then by replacing the 9th grade reading and math scores for Thomas High School. 
+ We aggregated datas to showcase trends and schools performance regarding schools budgets, reading and math score, sizes and priorities. We did this analysis first with all the schools datas and then by replacing the 9th grade reading and math scores for Thomas High School. 
 
 ## Results: 
 
